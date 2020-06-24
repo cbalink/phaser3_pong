@@ -6,4 +6,4 @@
 npm install
 npm start
 ```
-_Port 8081
+> web server runs on port 8081
