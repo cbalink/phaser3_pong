@@ -1,5 +1,6 @@
 # phaser3_pong
 > small pong clone demonstrating some features of phaser
+![](screenshot.png)
 
 ## Installation
 ```sh
@@ -8,4 +9,4 @@ npm start
 ```
 > web server runs on port 8081
 
-![](screenshot.png)
+
